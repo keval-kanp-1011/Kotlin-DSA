@@ -18,7 +18,7 @@ fun findAPickElement(array: IntArray) : Int {
 }
 
 /**
- * Optimized Approach
+ * Optimized Approach Using Binary Search
  */
 fun findAPickElementOptimized(array: IntArray): Int {
 
