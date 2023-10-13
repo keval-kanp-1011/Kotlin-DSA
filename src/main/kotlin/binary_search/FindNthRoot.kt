@@ -1,4 +1,4 @@
-
+package binary_search
 
 fun findNthRoot(number: Int, n: Int): Int {
 

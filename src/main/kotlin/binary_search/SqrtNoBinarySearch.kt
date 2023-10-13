@@ -1,4 +1,4 @@
-
+package binary_search
 /**
  *Bruteforce Approach
  */

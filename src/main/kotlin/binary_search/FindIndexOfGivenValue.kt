@@ -1,4 +1,4 @@
-package recursion.findIndexofGivenValue
+package binary_search
 
 fun findIndex( nums: IntArray, start: Int, end: Int, target: Int): Int {
 
@@ -15,4 +15,13 @@ fun findIndex( nums: IntArray, start: Int, end: Int, target: Int): Int {
     }
 
     return  -1
+}
+
+fun main() {
+
+    val ans = intArrayOf(1,2,3,4,5,6,7,8,9)
+
+    println(findIndex(ans, 0, ans.size -1, 3))
+
+
 }

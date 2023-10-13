@@ -1,4 +1,4 @@
-
+package binary_search
 fun missingK(array: IntArray, k: Int): Int {
 
     var low = 0

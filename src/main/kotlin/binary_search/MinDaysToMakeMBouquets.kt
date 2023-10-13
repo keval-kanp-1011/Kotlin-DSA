@@ -1,4 +1,4 @@
-
+package binary_search
 fun possible(array: IntArray, day: Int, m: Int, k: Int) : Boolean {
 
     var count = 0

@@ -1,3 +1,5 @@
+package binary_search
+
 import kotlin.math.ceil
 
 fun sumOfD(array: IntArray, div: Int): Int {

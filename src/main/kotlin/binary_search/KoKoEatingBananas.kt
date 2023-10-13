@@ -1,3 +1,5 @@
+package binary_search
+
 import kotlin.math.ceil
 
 fun noOfHoursToEatBananas(piles: IntArray, hourlyRate: Int): Int {

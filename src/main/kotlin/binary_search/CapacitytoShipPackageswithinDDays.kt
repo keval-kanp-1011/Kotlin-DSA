@@ -1,3 +1,5 @@
+package binary_search
+
 fun noOfDays(array: IntArray, minCap: Int): Int {
     var days = 1
     var weights = 0
