@@ -3,7 +3,7 @@ package sorting
 
 fun IntArray.sortElement() {
 
-    var temp = 0
+    var temp: Int
 
 
     for (i in 0..this.lastIndex) {
