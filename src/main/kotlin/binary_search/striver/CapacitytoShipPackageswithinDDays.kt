@@ -1,4 +1,4 @@
-package binary_search
+package binary_search.striver
 
 fun noOfDays(array: IntArray, minCap: Int): Int {
     var days = 1

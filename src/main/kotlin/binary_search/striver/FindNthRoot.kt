@@ -1,4 +1,4 @@
-package binary_search
+package binary_search.striver
 
 fun findNthRoot(number: Int, n: Int): Int {
 

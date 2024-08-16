@@ -1,4 +1,4 @@
-package binary_search
+package binary_search.striver
 
 fun canWePlace(array: IntArray, dist: Int, cows: Int): Boolean {
 

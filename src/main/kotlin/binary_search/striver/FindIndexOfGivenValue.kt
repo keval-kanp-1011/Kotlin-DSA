@@ -1,4 +1,4 @@
-package binary_search
+package binary_search.striver
 
 fun findIndex( nums: IntArray, start: Int, end: Int, target: Int): Int {
 

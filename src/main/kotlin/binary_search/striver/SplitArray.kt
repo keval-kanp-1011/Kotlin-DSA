@@ -1,4 +1,4 @@
-package binary_search
+package binary_search.striver
 
 fun countSubArrays(array: IntArray, page: Int): Int {
 
